@@ -1,0 +1,14 @@
+.Home .allArticles {
+    text-align: right;
+}
+
+.Home .allArticles a {
+    text-decoration: none;
+    color: hsl(210, 69%, 25%);
+    margin-right: 5px;
+}
+
+.Home .allArticles a:hover,
+.Home .allArticles a:focus {
+    color: hsl(213, 63%, 7%)
+}

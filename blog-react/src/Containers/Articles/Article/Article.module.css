@@ -1,0 +1,40 @@
+.Article {
+    padding: 30px;
+}
+
+.title,
+.contenu,
+.footer {
+    margin-top: 100px;
+}
+
+
+.footer {
+    background-color: #f1f1f1;
+    padding: 20px;
+    margin-top: 30px;
+}
+
+.auteur,
+.date {
+    padding: 20px;
+}
+
+.button {
+    text-align: right;
+    padding-top: 40px;
+}
+
+.button button {
+    margin: 0 10px;
+    width: 100px;
+    height: 40px;
+    font-size: 15px;
+    color: white;
+    background-color: #1D5C63;
+    border-radius: 5px;
+}
+
+.button button:hover {
+    background-color: #E97777;
+}

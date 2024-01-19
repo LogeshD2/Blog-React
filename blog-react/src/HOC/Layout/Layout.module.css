@@ -1,0 +1,22 @@
+.Layout {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: stretch;
+    align-content: stretch;
+
+}
+
+.header {
+    width: 20%;
+    min-width: 265px;
+    height: 100vh;
+}
+
+
+:global .container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}

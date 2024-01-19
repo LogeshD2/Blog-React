@@ -1,0 +1,22 @@
+.Navigation {
+    list-style-type: none;
+    padding: 0;
+}
+
+.Navigation svg {
+    margin-right: 10px;
+
+}
+
+.logout {
+    padding: 20px;
+    background-color: #1D5C63;
+    font-size: 20px;
+    border-radius: 4px;
+    color: white;
+    transition: .1s;
+}
+
+.logout:hover {
+    background-color: #319ca8;
+}

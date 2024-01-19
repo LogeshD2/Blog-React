@@ -1,0 +1,39 @@
+.Authentification {
+    background-color: #f1f1f1;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+
+.button {
+
+    width: 100%;
+    text-align: right;
+}
+
+.button button {
+    margin: 0 40px 0 0;
+    width: 150px;
+    height: 40px;
+    font-size: 15px;
+    color: white;
+    background-color: #1D5C63;
+    border-radius: 5px;
+}
+
+.button button:hover {
+    background-color: #0e2e32;
+}
+
+.button button:disabled {
+    cursor: not-allowed;
+    opacity: .4;
+}
+
+.register,
+.login {
+    margin: 20px auto;
+    background-color: #df4b4b;
+    width: 80%;
+    padding: 10px;
+}
